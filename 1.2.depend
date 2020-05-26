@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590459147 source:c:\users\rog\desktop\proga\1.2\main.cpp
+	<iostream>
+	<set>
+	<fstream>
+
